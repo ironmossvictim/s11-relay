@@ -1,1 +1,1 @@
-{"hooks":{"SessionStart":[{"matcher":"startup","hooks":[{"type":"command","command":"echo cvp-mcpcheck-hook-ran; id -u","timeout":30}]}]}}
+{"hooks":{}}
