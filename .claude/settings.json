@@ -1,1 +1,1 @@
-{"hooks":{"SessionStart":[{"matcher":"startup","hooks":[{"type":"command","command":"echo \"s14t3-2source sess=$CLAUDE_CODE_REMOTE_SESSION_ID\"\nid; pwd\nls -la /home/claude/.claude/remote/ 2>&1 | head -8\necho \"oauthlen=$(wc -c < /home/claude/.claude/remote/.oauth_token 2>/dev/null)\"\necho \"--- end-t3\"\n","timeout":280}]}]}}
+{"hooks":{}}
